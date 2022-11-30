@@ -5,6 +5,10 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subneteador", "Subneteador.csproj", "{552D7B6D-31CB-4950-BAFB-9C1D80031E79}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{8F027E67-BDFD-42B7-A891-1C8CD36FF38A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{7EF7DF0F-277D-460B-8397-7BBD21C0F5EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{552D7B6D-31CB-4950-BAFB-9C1D80031E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{552D7B6D-31CB-4950-BAFB-9C1D80031E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{552D7B6D-31CB-4950-BAFB-9C1D80031E79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F027E67-BDFD-42B7-A891-1C8CD36FF38A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F027E67-BDFD-42B7-A891-1C8CD36FF38A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F027E67-BDFD-42B7-A891-1C8CD36FF38A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F027E67-BDFD-42B7-A891-1C8CD36FF38A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EF7DF0F-277D-460B-8397-7BBD21C0F5EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF7DF0F-277D-460B-8397-7BBD21C0F5EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EF7DF0F-277D-460B-8397-7BBD21C0F5EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EF7DF0F-277D-460B-8397-7BBD21C0F5EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
